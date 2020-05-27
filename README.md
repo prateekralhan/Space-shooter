@@ -4,7 +4,8 @@
 * Pygame - ***pip install pygame*** does everything to get this installed.
 
 ## Usage:
-Simply execute the command: ***python main.py*** to launch your game. 
+1. Simply execute the command: ***python main.py*** to launch your game. 
+2. Use the classic keys: **W,A,S,D** as movemebt keys and hit **Space bar** to shoot.
 
 Note: My Linux Display Drivers have some issues so the GUI may not as pleasing it is actually is. Try it out yourself :smile:
 
