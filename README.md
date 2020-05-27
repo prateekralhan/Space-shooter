@@ -1,4 +1,5 @@
 # Space shooter
+I am really fond of playing around with the pygame module at times. Check out this minimalistic space shooter game made solely using pygame
 
 ## Dependencies:
 * Pygame - ***pip install pygame*** does everything to get this installed.
