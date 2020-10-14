@@ -6,7 +6,7 @@ I am really fond of playing around with the pygame module at times. Check out th
 
 ## Usage:
 1. Simply execute the command: ***python main.py*** to launch your game. 
-2. Use the classic keys: **W,A,S,D** as movemebt keys and hit **Space bar** to shoot.
+2. Use the classic keys: **W,A,S,D** as movement keys and hit **Space bar** to shoot.
 
 Note: My Linux Display Drivers have some issues so the GUI may not as pleasing it is actually is. Try it out yourself :smile:
 
