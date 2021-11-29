@@ -1,4 +1,5 @@
-# Space shooter
+# Space shooter 🚀🌌☄ [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 I am really fond of playing around with the pygame module at times. Check out this minimalistic space shooter game made solely using pygame
 
 ## Dependencies:
